@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">mbl404_dck_week_4</string>
+    <string name="app_name">Weather Check</string>
+
+    <string-array name="cities">
+        <item>Select a City:</item>
+        <item>Norfolk</item>
+        <item>Richmond</item>
+    </string-array>
+
 </resources>
